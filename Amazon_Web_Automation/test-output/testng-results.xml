@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-18T05:55:10Z" name="Default suite" finished-at="2023-12-18T05:56:02Z" duration-ms="52330">
+    <groups>
+    </groups>
+    <test started-at="2023-12-18T05:55:10Z" name="Default test" finished-at="2023-12-18T05:56:02Z" duration-ms="52330">
+      <class name="Amazon_Test.AmazonAppTest">
+        <test-method is-config="true" signature="testOpenURL()[pri:0, instance:Amazon_Test.AmazonAppTest@2c34f934]" started-at="2023-12-18T11:25:10Z" name="testOpenURL" finished-at="2023-12-18T11:25:19Z" duration-ms="8583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOpenURL -->
+        <test-method signature="testNavigateProduct()[pri:0, instance:Amazon_Test.AmazonAppTest@2c34f934]" started-at="2023-12-18T11:25:19Z" name="testNavigateProduct" finished-at="2023-12-18T11:25:39Z" duration-ms="20627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigateProduct -->
+        <test-method signature="testNavigateToProductDetailPage()[pri:0, instance:Amazon_Test.AmazonAppTest@2c34f934]" started-at="2023-12-18T11:25:39Z" name="testNavigateToProductDetailPage" finished-at="2023-12-18T11:25:51Z" duration-ms="12095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigateToProductDetailPage -->
+        <test-method signature="testAddToCartProduct()[pri:0, instance:Amazon_Test.AmazonAppTest@2c34f934]" started-at="2023-12-18T11:25:51Z" name="testAddToCartProduct" finished-at="2023-12-18T11:26:02Z" duration-ms="10113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCartProduct -->
+        <test-method is-config="true" signature="testQuit()[pri:0, instance:Amazon_Test.AmazonAppTest@2c34f934]" started-at="2023-12-18T11:26:02Z" name="testQuit" finished-at="2023-12-18T11:26:02Z" duration-ms="871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testQuit -->
+      </class> <!-- Amazon_Test.AmazonAppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
